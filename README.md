@@ -5,4 +5,4 @@
 2. php example1.php
 *****
 
-Ссылка на урок: @fromidiottojunior
+Ссылка на урок: [@fromidiottojunior](https://t.me/fromidiottojunior/101)
